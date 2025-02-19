@@ -3,5 +3,5 @@ variable "aws_region" {
 }
 
 variable "bucket_name" {
-  default = "my-google-drive-content-bucket"
+  default = "my-google-drive-content-bucket12"
 }
